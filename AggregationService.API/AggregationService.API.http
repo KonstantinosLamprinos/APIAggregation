@@ -1,0 +1,6 @@
+@AggregationService.API_HostAddress = http://localhost:5037
+
+GET {{AggregationService.API_HostAddress}}/aggregationservice/
+Accept: application/json
+
+###
